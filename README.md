@@ -1,5 +1,7 @@
-# mastering-git-web
+# Recycling mobile apps for iOS
+## 용이한 분리수거 및 쓰레기 배출을 도와주는 아이폰용 어플리케이션입니다.
 
-This repository houses a proposed website for the Mastering Git book.
-
-Contact: mwkoo@sogang.ac.kr
+---
+This file will be updated.
+---
+Contact: vkdtjsdo@gmail.com
